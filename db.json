@@ -1,13 +1,17 @@
 {
-  "posts": [
+  "posts": 
+  [
     {
       "id": 1,
-      "title": "hello"
+      "title": "job one",
+      "completed": false
     },
     {
       "id": 2,
-      "title": "world"
-    }  ],
+      "title": "job two",
+      "completed": true;
+    }  
+  ],
   "profile": {
     "name": "typicode"
   }
